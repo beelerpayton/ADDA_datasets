@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Beeler"
+  given-names: "Payton"
+  orcid: "https://orcid.org/0000-0003-4759-1461"
+- family-names: "Chakrabarty"
+  given-names: "Rajan K."
+  orcid: "https://orcid.org/0000-0001-5753-9937"
+title: "ADDA_datasets"
+version: 1.0.0
+doi: 10.5281/zenodo.7255194
+date-released: 2022-10-26
+url: "https://github.com/beelerpayton/ADDA_datasets"
